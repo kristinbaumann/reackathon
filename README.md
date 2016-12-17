@@ -6,6 +6,9 @@ Mostly developed with React Components from [neal-react](http://www.github.com/d
 
 Live website: [reackathon.8bitrockr.com](http://reackathon.8bitrockr.com)
 
+![Screenshot Desktop Opener](/screenshot_desktop.png)
+![Screenshot Mobile Infos](/screenshot_mobile.png)
+
 ## Develop locally
 
 Transpile the Javascript using Babel and watch for changes:
