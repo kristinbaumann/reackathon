@@ -7,7 +7,7 @@ Mostly developed with React Components from [neal-react](http://www.github.com/d
 Live website: [reackathon.8bitrockr.com](http://reackathon.8bitrockr.com)
 
 ![Screenshot Desktop Opener](/screenshot_desktop.png)
-![Screenshot Mobile Infos](/screenshot_mobile.png)
+<img src="/screenshot_mobile.png" height="400">
 
 ## Develop locally
 
